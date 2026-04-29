@@ -1,4 +1,4 @@
-# PRO Áudio Marine - Versão 2 Absurda
+# PRO Áudio Marine - Versão 2 
 
 Site premium estilo empresa grande, inspirado em layout náutico de luxo.
 
@@ -31,7 +31,7 @@ Rodapé refinado com navegação, atendimento, orçamento e seleção de idioma 
 
 
 ## Bandeiras no topo
-O bloco de idioma do rodapé foi removido. As bandeiras Brasil, EUA e Espanha foram adicionadas no topo. Ao clicar, o conteúdo principal do site muda para o idioma escolhido.
+EUA e Espanha foram adicionadas no topo. Ao clicar, o conteúdo principal do site muda para o idioma escolhido.
 
 ## Internacional nível empresa global
 - Bandeiras no topo em estilo discreto tipo NX.
@@ -41,7 +41,4 @@ O bloco de idioma do rodapé foi removido. As bandeiras Brasil, EUA e Espanha fo
 - URL com ?lang=pt, ?lang=en ou ?lang=es.
 - Meta description e title mudam conforme o idioma.
 
-## Correção final controlada
-- Corrigido apenas o topo e o rodapé.
-- Topo sem posição fixa, sem moldura/caixa escura e sem acompanhar a rolagem.
 - Rodapé reorganizado, limpo e com crédito: Desenvolvido pela CX.
